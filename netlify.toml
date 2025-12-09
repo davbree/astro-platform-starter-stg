@@ -1,8 +1,5 @@
 [build.environment]
   NODE_VERSION = "18"
   NPM_VERSION = "9.2"
-  GO_VERSION = "1.24"
-  PYTHON_VERSION = "3.13"
-  RUBY_VERSION = "3.3"
   HUGO_VERSION = "0.50"
   
