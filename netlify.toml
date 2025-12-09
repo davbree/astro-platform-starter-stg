@@ -3,3 +3,5 @@
   NPM_VERSION = "9.2"
   GO_VERSION = "1.23"
   PYTHON_VERSION = "3.13"
+  RUBY_VERSION = "3.3"
+  
